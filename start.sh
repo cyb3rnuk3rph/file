@@ -1,1 +1,1 @@
-sudo lshw
+sudo whoami
